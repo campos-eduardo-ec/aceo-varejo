@@ -1,0 +1,33 @@
+{
+  "name": "O Boticário",
+  "description": "Perfumaria e cosméticos brasileiros.",
+  "customDescription": {
+    "pt-BR": "Perfumaria e cosméticos brasileiros.",
+    "en": "Perfumaria e cosméticos brasileiros."
+  },
+  "logoPath": "OBoticario.png",
+  "businessClass": 1,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Shop",
+  "products": [
+    "ColoniaMasculinaBoticario",
+    "ColoniaFemininaBoticario",
+    "BodySplashBoticario",
+    "HidratanteBoticario",
+    "MaquiagemBoticario",
+    "KitPresenteBoticario"
+  ],
+  "backgroundColor": {
+    "r": 0,
+    "g": 100,
+    "b": 70,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "a": 255
+  }
+}

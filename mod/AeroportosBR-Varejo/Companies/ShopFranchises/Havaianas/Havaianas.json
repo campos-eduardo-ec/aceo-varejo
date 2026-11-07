@@ -1,0 +1,32 @@
+{
+  "name": "Havaianas",
+  "description": "As sandálias que todo mundo usa.",
+  "customDescription": {
+    "pt-BR": "As sandálias que todo mundo usa.",
+    "en": "As sandálias que todo mundo usa."
+  },
+  "logoPath": "Havaianas.png",
+  "businessClass": 1,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Shop",
+  "products": [
+    "HavaianasTradicional",
+    "HavaianasSlim",
+    "HavaianasBrasil",
+    "HavaianasKids",
+    "ToalhaHavaianasV2"
+  ],
+  "backgroundColor": {
+    "r": 255,
+    "g": 214,
+    "b": 0,
+    "a": 255
+  },
+  "textColor": {
+    "r": 200,
+    "g": 16,
+    "b": 46,
+    "a": 255
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Droga Raia",
+  "description": "Farmácia.",
+  "customDescription": {
+    "pt-BR": "Farmácia.",
+    "en": "Farmácia."
+  },
+  "logoPath": "DrogaRaia.png",
+  "businessClass": 1,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Shop",
+  "products": [
+    "RemediosCaixasV2",
+    "ProtetorSolarRaiaV2",
+    "AguaFardo",
+    "XampuFrascos",
+    "HigieneBucal",
+    "Vitaminas"
+  ],
+  "backgroundColor": {
+    "r": 0,
+    "g": 90,
+    "b": 160,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "a": 255
+  }
+}

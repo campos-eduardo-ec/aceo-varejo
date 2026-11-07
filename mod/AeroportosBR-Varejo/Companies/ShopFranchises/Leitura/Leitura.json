@@ -1,0 +1,33 @@
+{
+  "name": "Leitura",
+  "description": "Livraria.",
+  "customDescription": {
+    "pt-BR": "Livraria.",
+    "en": "Livraria."
+  },
+  "logoPath": "Leitura.png",
+  "businessClass": 1,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Shop",
+  "products": [
+    "LivrosLeitura",
+    "MangasLeitura",
+    "ColecionaveisLeitura",
+    "CadernosLeitura",
+    "LivrosInfantisLeitura",
+    "CanecasLeitura"
+  ],
+  "backgroundColor": {
+    "r": 0,
+    "g": 110,
+    "b": 180,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "a": 255
+  }
+}

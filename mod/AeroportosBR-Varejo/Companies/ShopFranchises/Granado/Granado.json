@@ -1,0 +1,31 @@
+{
+  "name": "Granado",
+  "description": "Perfumaria e sabonetes.",
+  "customDescription": {
+    "pt-BR": "Perfumaria e sabonetes.",
+    "en": "Perfumaria e sabonetes."
+  },
+  "logoPath": "Granado.png",
+  "businessClass": 1,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Shop",
+  "products": [
+    "SaboneteGranado",
+    "ColoniaGranadoV2",
+    "PolvilhoGranadoV2",
+    "HidratanteGranadoV2"
+  ],
+  "backgroundColor": {
+    "r": 20,
+    "g": 60,
+    "b": 50,
+    "a": 255
+  },
+  "textColor": {
+    "r": 220,
+    "g": 200,
+    "b": 150,
+    "a": 255
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Hudson News",
+  "description": "Revistas, livros e itens de viagem.",
+  "customDescription": {
+    "pt-BR": "Revistas, livros e itens de viagem.",
+    "en": "Revistas, livros e itens de viagem."
+  },
+  "logoPath": "HudsonNews.png",
+  "businessClass": 1,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Shop",
+  "products": [
+    "RevistasHudson",
+    "LivrosHudson",
+    "TravesseiroHudson",
+    "FoneHudson",
+    "AguaHudson",
+    "DocesHudson"
+  ],
+  "backgroundColor": {
+    "r": 0,
+    "g": 60,
+    "b": 120,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "a": 255
+  }
+}

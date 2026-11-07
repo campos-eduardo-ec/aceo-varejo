@@ -1,0 +1,48 @@
+{
+  "name": "Bagaggio Megastore",
+  "description": "Malas e acessórios de viagem.",
+  "customDescription": {
+    "pt-BR": "Malas e acessórios de viagem.",
+    "en": "Malas e acessórios de viagem."
+  },
+  "logoPath": "BagaggioMegastore.png",
+  "businessClass": 3,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Shop",
+  "products": [
+    "MalaBordoBagaggio",
+    "MalaGrandeBagaggio",
+    "MochilaBagaggio",
+    "MochilaBagaggioB",
+    "NecessaireBagaggio",
+    "TravesseiroBagaggio",
+    "CadeadosBagaggio"
+  ],
+  "backgroundColor": {
+    "r": 30,
+    "g": 30,
+    "b": 30,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "a": 255
+  },
+  "itemRequirements": [
+    {
+      "item": "ShopCounter",
+      "amount": 2
+    },
+    {
+      "item": "Shelf",
+      "amount": 10
+    },
+    {
+      "item": "Plant",
+      "amount": 1
+    }
+  ]
+}

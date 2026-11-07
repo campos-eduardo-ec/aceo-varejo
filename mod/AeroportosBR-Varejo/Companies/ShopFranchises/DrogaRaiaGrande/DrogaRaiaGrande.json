@@ -1,0 +1,47 @@
+{
+  "name": "Droga Raia Grande",
+  "description": "Farmácia.",
+  "customDescription": {
+    "pt-BR": "Farmácia.",
+    "en": "Farmácia."
+  },
+  "logoPath": "DrogaRaiaGrande.png",
+  "businessClass": 2,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Shop",
+  "products": [
+    "RemediosCaixasV2",
+    "ProtetorSolarRaiaV2",
+    "AguaFardo",
+    "XampuFrascos",
+    "HigieneBucal",
+    "Vitaminas"
+  ],
+  "backgroundColor": {
+    "r": 0,
+    "g": 90,
+    "b": 160,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "a": 255
+  },
+  "itemRequirements": [
+    {
+      "item": "ShopCounter",
+      "amount": 2
+    },
+    {
+      "item": "Shelf",
+      "amount": 8
+    },
+    {
+      "item": "Plant",
+      "amount": 1
+    }
+  ]
+}

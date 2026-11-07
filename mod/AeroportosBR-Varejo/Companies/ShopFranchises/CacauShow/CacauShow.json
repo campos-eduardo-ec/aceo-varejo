@@ -1,0 +1,32 @@
+{
+  "name": "Cacau Show",
+  "description": "Trufas e chocolates.",
+  "customDescription": {
+    "pt-BR": "Trufas e chocolates.",
+    "en": "Trufas e chocolates."
+  },
+  "logoPath": "CacauShow.png",
+  "businessClass": 1,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Shop",
+  "products": [
+    "TrufasCaixa",
+    "BarrasChocolate",
+    "CaixaBombons",
+    "CestoBombons",
+    "TabletesGrandes"
+  ],
+  "backgroundColor": {
+    "r": 80,
+    "g": 40,
+    "b": 25,
+    "a": 255
+  },
+  "textColor": {
+    "r": 214,
+    "g": 170,
+    "b": 90,
+    "a": 255
+  }
+}

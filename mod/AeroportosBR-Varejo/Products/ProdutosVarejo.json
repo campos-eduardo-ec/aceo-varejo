@@ -1,0 +1,2371 @@
+{
+  "array": [
+    {
+      "productType": "AcessoriosAcoChilli",
+      "quality": 0,
+      "pricePerUnit": 90,
+      "imagePath": "AcessoriosAcoChilli.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "AdaptadoresLoft",
+      "quality": 0,
+      "pricePerUnit": 80,
+      "imagePath": "AdaptadoresLoft.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "AguaFardo",
+      "quality": 0,
+      "pricePerUnit": 10,
+      "imagePath": "AguaFardo.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "AguaHudson",
+      "quality": 0,
+      "pricePerUnit": 10,
+      "imagePath": "AguaHudson.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "ArmacoesChilli",
+      "quality": 0,
+      "pricePerUnit": 300,
+      "imagePath": "ArmacoesChilli.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "AvioesMundoMagico",
+      "quality": 0,
+      "pricePerUnit": 70,
+      "imagePath": "AvioesMundoMagico.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "BarrasChocolate",
+      "quality": 0,
+      "pricePerUnit": 20,
+      "imagePath": "BarrasChocolate.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "BermudaTrackField",
+      "quality": 0,
+      "pricePerUnit": 230,
+      "imagePath": "BermudaTrackField.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        },
+        {
+          "r": 30,
+          "g": 30,
+          "b": 30,
+          "a": 255
+        },
+        {
+          "r": 80,
+          "g": 80,
+          "b": 85,
+          "a": 255
+        },
+        {
+          "r": 20,
+          "g": 40,
+          "b": 90,
+          "a": 255
+        },
+        {
+          "r": 60,
+          "g": 110,
+          "b": 200,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "BodySplashBoticario",
+      "quality": 0,
+      "pricePerUnit": 110,
+      "imagePath": "BodySplashBoticario.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "BolsaPraiaBrasileirissima",
+      "quality": 0,
+      "pricePerUnit": 130,
+      "imagePath": "BolsaPraiaBrasileirissima.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "BombonsKopenhagen",
+      "quality": 0,
+      "pricePerUnit": 90,
+      "imagePath": "BombonsKopenhagen.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "BoneBrasileirissima",
+      "quality": 0,
+      "pricePerUnit": 160,
+      "imagePath": "BoneBrasileirissima.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        },
+        {
+          "r": 90,
+          "g": 190,
+          "b": 180,
+          "a": 255
+        },
+        {
+          "r": 200,
+          "g": 150,
+          "b": 60,
+          "a": 255
+        },
+        {
+          "r": 30,
+          "g": 60,
+          "b": 140,
+          "a": 255
+        },
+        {
+          "r": 245,
+          "g": 240,
+          "b": 225,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "CabosLoft",
+      "quality": 0,
+      "pricePerUnit": 60,
+      "imagePath": "CabosLoft.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "CadeadosBagaggio",
+      "quality": 0,
+      "pricePerUnit": 50,
+      "imagePath": "CadeadosBagaggio.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "CadernosLeitura",
+      "quality": 0,
+      "pricePerUnit": 45,
+      "imagePath": "CadernosLeitura.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "CaixaBombons",
+      "quality": 0,
+      "pricePerUnit": 90,
+      "imagePath": "CaixaBombons.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "CaixaColecaoKopenhagen",
+      "quality": 0,
+      "pricePerUnit": 150,
+      "imagePath": "CaixaColecaoKopenhagen.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "CamisaTropicalBrasileirissima",
+      "quality": 0,
+      "pricePerUnit": 290,
+      "imagePath": "CamisaTropicalBrasileirissima.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "CamisetaAdidas",
+      "quality": 0,
+      "pricePerUnit": 200,
+      "imagePath": "CamisetaAdidas.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        },
+        {
+          "r": 30,
+          "g": 30,
+          "b": 30,
+          "a": 255
+        },
+        {
+          "r": 30,
+          "g": 70,
+          "b": 170,
+          "a": 255
+        },
+        {
+          "r": 0,
+          "g": 130,
+          "b": 70,
+          "a": 255
+        },
+        {
+          "r": 120,
+          "g": 20,
+          "b": 40,
+          "a": 255
+        },
+        {
+          "r": 150,
+          "g": 150,
+          "b": 155,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "CamisetaBrasileirissima",
+      "quality": 0,
+      "pricePerUnit": 140,
+      "imagePath": "CamisetaBrasileirissima.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        },
+        {
+          "r": 255,
+          "g": 212,
+          "b": 0,
+          "a": 255
+        },
+        {
+          "r": 0,
+          "g": 155,
+          "b": 58,
+          "a": 255
+        },
+        {
+          "r": 0,
+          "g": 39,
+          "b": 118,
+          "a": 255
+        },
+        {
+          "r": 245,
+          "g": 240,
+          "b": 225,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "CamisetaTrackField",
+      "quality": 0,
+      "pricePerUnit": 220,
+      "imagePath": "CamisetaTrackField.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        },
+        {
+          "r": 30,
+          "g": 30,
+          "b": 30,
+          "a": 255
+        },
+        {
+          "r": 80,
+          "g": 80,
+          "b": 85,
+          "a": 255
+        },
+        {
+          "r": 107,
+          "g": 122,
+          "b": 58,
+          "a": 255
+        },
+        {
+          "r": 20,
+          "g": 40,
+          "b": 90,
+          "a": 255
+        },
+        {
+          "r": 216,
+          "g": 160,
+          "b": 166,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "CanecasLeitura",
+      "quality": 0,
+      "pricePerUnit": 60,
+      "imagePath": "CanecasLeitura.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "CangaBrasileirissima",
+      "quality": 0,
+      "pricePerUnit": 190,
+      "imagePath": "CangaBrasileirissima.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "CapasLoft",
+      "quality": 0,
+      "pricePerUnit": 90,
+      "imagePath": "CapasLoft.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        },
+        {
+          "r": 30,
+          "g": 30,
+          "b": 30,
+          "a": 255
+        },
+        {
+          "r": 120,
+          "g": 120,
+          "b": 130,
+          "a": 255
+        },
+        {
+          "r": 240,
+          "g": 150,
+          "b": 180,
+          "a": 255
+        },
+        {
+          "r": 60,
+          "g": 110,
+          "b": 200,
+          "a": 255
+        },
+        {
+          "r": 110,
+          "g": 130,
+          "b": 70,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "CestoBombons",
+      "quality": 0,
+      "pricePerUnit": 15,
+      "imagePath": "CestoBombons.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "ChineloAdidas",
+      "quality": 0,
+      "pricePerUnit": 150,
+      "imagePath": "ChineloAdidas.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "ChumbinhoKopenhagen",
+      "quality": 0,
+      "pricePerUnit": 30,
+      "imagePath": "ChumbinhoKopenhagen.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "ColecionaveisLeitura",
+      "quality": 0,
+      "pricePerUnit": 120,
+      "imagePath": "ColecionaveisLeitura.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "ColoniaFemininaBoticario",
+      "quality": 0,
+      "pricePerUnit": 170,
+      "imagePath": "ColoniaFemininaBoticario.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "ColoniaGranadoV2",
+      "quality": 0,
+      "pricePerUnit": 180,
+      "imagePath": "ColoniaGranadoV2.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "ColoniaMasculinaBoticario",
+      "quality": 0,
+      "pricePerUnit": 180,
+      "imagePath": "ColoniaMasculinaBoticario.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "DocesHudson",
+      "quality": 0,
+      "pricePerUnit": 20,
+      "imagePath": "DocesHudson.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "FantasiasMundoMagico",
+      "quality": 0,
+      "pricePerUnit": 130,
+      "imagePath": "FantasiasMundoMagico.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "FantasiasMundoMagicoB",
+      "quality": 0,
+      "pricePerUnit": 130,
+      "imagePath": "FantasiasMundoMagicoB.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "FoneHudson",
+      "quality": 0,
+      "pricePerUnit": 150,
+      "imagePath": "FoneHudson.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "FonesLoft",
+      "quality": 0,
+      "pricePerUnit": 150,
+      "imagePath": "FonesLoft.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "GarrafaTrackField",
+      "quality": 0,
+      "pricePerUnit": 90,
+      "imagePath": "GarrafaTrackField.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        },
+        {
+          "r": 30,
+          "g": 30,
+          "b": 30,
+          "a": 255
+        },
+        {
+          "r": 90,
+          "g": 200,
+          "b": 190,
+          "a": 255
+        },
+        {
+          "r": 240,
+          "g": 150,
+          "b": 180,
+          "a": 255
+        },
+        {
+          "r": 60,
+          "g": 110,
+          "b": 200,
+          "a": 255
+        },
+        {
+          "r": 245,
+          "g": 130,
+          "b": 40,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "HavaianasBrasil",
+      "quality": 0,
+      "pricePerUnit": 90,
+      "imagePath": "HavaianasBrasil.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "HavaianasKids",
+      "quality": 0,
+      "pricePerUnit": 50,
+      "imagePath": "HavaianasKids.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "HavaianasSlim",
+      "quality": 0,
+      "pricePerUnit": 80,
+      "imagePath": "HavaianasSlim.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        },
+        {
+          "r": 30,
+          "g": 30,
+          "b": 30,
+          "a": 255
+        },
+        {
+          "r": 20,
+          "g": 40,
+          "b": 110,
+          "a": 255
+        },
+        {
+          "r": 230,
+          "g": 60,
+          "b": 90,
+          "a": 255
+        },
+        {
+          "r": 220,
+          "g": 30,
+          "b": 40,
+          "a": 255
+        },
+        {
+          "r": 255,
+          "g": 205,
+          "b": 0,
+          "a": 255
+        },
+        {
+          "r": 0,
+          "g": 150,
+          "b": 70,
+          "a": 255
+        },
+        {
+          "r": 160,
+          "g": 110,
+          "b": 200,
+          "a": 255
+        },
+        {
+          "r": 255,
+          "g": 130,
+          "b": 40,
+          "a": 255
+        },
+        {
+          "r": 90,
+          "g": 200,
+          "b": 220,
+          "a": 255
+        },
+        {
+          "r": 250,
+          "g": 170,
+          "b": 190,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "HavaianasTradicional",
+      "quality": 0,
+      "pricePerUnit": 60,
+      "imagePath": "HavaianasTradicional.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        },
+        {
+          "r": 30,
+          "g": 30,
+          "b": 30,
+          "a": 255
+        },
+        {
+          "r": 20,
+          "g": 40,
+          "b": 110,
+          "a": 255
+        },
+        {
+          "r": 230,
+          "g": 60,
+          "b": 90,
+          "a": 255
+        },
+        {
+          "r": 220,
+          "g": 30,
+          "b": 40,
+          "a": 255
+        },
+        {
+          "r": 255,
+          "g": 205,
+          "b": 0,
+          "a": 255
+        },
+        {
+          "r": 0,
+          "g": 150,
+          "b": 70,
+          "a": 255
+        },
+        {
+          "r": 160,
+          "g": 110,
+          "b": 200,
+          "a": 255
+        },
+        {
+          "r": 255,
+          "g": 130,
+          "b": 40,
+          "a": 255
+        },
+        {
+          "r": 90,
+          "g": 200,
+          "b": 220,
+          "a": 255
+        },
+        {
+          "r": 250,
+          "g": 170,
+          "b": 190,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "HidratanteBoticario",
+      "quality": 0,
+      "pricePerUnit": 70,
+      "imagePath": "HidratanteBoticario.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "HidratanteGranadoV2",
+      "quality": 0,
+      "pricePerUnit": 90,
+      "imagePath": "HidratanteGranadoV2.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "HigieneBucal",
+      "quality": 0,
+      "pricePerUnit": 25,
+      "imagePath": "HigieneBucal.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "JaquetaAdidas",
+      "quality": 0,
+      "pricePerUnit": 450,
+      "imagePath": "JaquetaAdidas.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "JaquetaAdidasB",
+      "quality": 0,
+      "pricePerUnit": 450,
+      "imagePath": "JaquetaAdidasB.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "JogosMundoMagico",
+      "quality": 0,
+      "pricePerUnit": 80,
+      "imagePath": "JogosMundoMagico.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "KitPresenteBoticario",
+      "quality": 0,
+      "pricePerUnit": 200,
+      "imagePath": "KitPresenteBoticario.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "LajotinhaKopenhagen",
+      "quality": 0,
+      "pricePerUnit": 35,
+      "imagePath": "LajotinhaKopenhagen.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "LeggingTrackField",
+      "quality": 0,
+      "pricePerUnit": 320,
+      "imagePath": "LeggingTrackField.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        },
+        {
+          "r": 30,
+          "g": 30,
+          "b": 30,
+          "a": 255
+        },
+        {
+          "r": 80,
+          "g": 80,
+          "b": 85,
+          "a": 255
+        },
+        {
+          "r": 20,
+          "g": 40,
+          "b": 90,
+          "a": 255
+        },
+        {
+          "r": 110,
+          "g": 20,
+          "b": 40,
+          "a": 255
+        },
+        {
+          "r": 70,
+          "g": 90,
+          "b": 50,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "LinguaDeGatoKopenhagen",
+      "quality": 0,
+      "pricePerUnit": 40,
+      "imagePath": "LinguaDeGatoKopenhagen.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "LivrosHudson",
+      "quality": 0,
+      "pricePerUnit": 60,
+      "imagePath": "LivrosHudson.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "LivrosInfantisLeitura",
+      "quality": 0,
+      "pricePerUnit": 50,
+      "imagePath": "LivrosInfantisLeitura.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "LivrosLeitura",
+      "quality": 0,
+      "pricePerUnit": 70,
+      "imagePath": "LivrosLeitura.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "MalaBordoBagaggio",
+      "quality": 0,
+      "pricePerUnit": 450,
+      "imagePath": "MalaBordoBagaggio.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        },
+        {
+          "r": 30,
+          "g": 30,
+          "b": 30,
+          "a": 255
+        },
+        {
+          "r": 110,
+          "g": 110,
+          "b": 115,
+          "a": 255
+        },
+        {
+          "r": 20,
+          "g": 40,
+          "b": 90,
+          "a": 255
+        },
+        {
+          "r": 150,
+          "g": 30,
+          "b": 40,
+          "a": 255
+        },
+        {
+          "r": 60,
+          "g": 110,
+          "b": 90,
+          "a": 255
+        },
+        {
+          "r": 200,
+          "g": 170,
+          "b": 130,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "MalaGrandeBagaggio",
+      "quality": 0,
+      "pricePerUnit": 500,
+      "imagePath": "MalaGrandeBagaggio.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        },
+        {
+          "r": 30,
+          "g": 30,
+          "b": 30,
+          "a": 255
+        },
+        {
+          "r": 110,
+          "g": 110,
+          "b": 115,
+          "a": 255
+        },
+        {
+          "r": 20,
+          "g": 40,
+          "b": 90,
+          "a": 255
+        },
+        {
+          "r": 150,
+          "g": 30,
+          "b": 40,
+          "a": 255
+        },
+        {
+          "r": 60,
+          "g": 110,
+          "b": 90,
+          "a": 255
+        },
+        {
+          "r": 200,
+          "g": 170,
+          "b": 130,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "MangasLeitura",
+      "quality": 0,
+      "pricePerUnit": 40,
+      "imagePath": "MangasLeitura.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "MaquiagemBoticario",
+      "quality": 0,
+      "pricePerUnit": 50,
+      "imagePath": "MaquiagemBoticario.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "MochilaBagaggio",
+      "quality": 0,
+      "pricePerUnit": 180,
+      "imagePath": "MochilaBagaggio.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        },
+        {
+          "r": 30,
+          "g": 30,
+          "b": 30,
+          "a": 255
+        },
+        {
+          "r": 110,
+          "g": 110,
+          "b": 115,
+          "a": 255
+        },
+        {
+          "r": 20,
+          "g": 40,
+          "b": 90,
+          "a": 255
+        },
+        {
+          "r": 150,
+          "g": 30,
+          "b": 40,
+          "a": 255
+        },
+        {
+          "r": 60,
+          "g": 110,
+          "b": 90,
+          "a": 255
+        },
+        {
+          "r": 200,
+          "g": 170,
+          "b": 130,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "MochilaBagaggioB",
+      "quality": 0,
+      "pricePerUnit": 180,
+      "imagePath": "MochilaBagaggioB.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        },
+        {
+          "r": 30,
+          "g": 30,
+          "b": 30,
+          "a": 255
+        },
+        {
+          "r": 110,
+          "g": 110,
+          "b": 115,
+          "a": 255
+        },
+        {
+          "r": 20,
+          "g": 40,
+          "b": 90,
+          "a": 255
+        },
+        {
+          "r": 150,
+          "g": 30,
+          "b": 40,
+          "a": 255
+        },
+        {
+          "r": 60,
+          "g": 110,
+          "b": 90,
+          "a": 255
+        },
+        {
+          "r": 200,
+          "g": 170,
+          "b": 130,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "NecessaireBagaggio",
+      "quality": 0,
+      "pricePerUnit": 90,
+      "imagePath": "NecessaireBagaggio.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        },
+        {
+          "r": 30,
+          "g": 30,
+          "b": 30,
+          "a": 255
+        },
+        {
+          "r": 110,
+          "g": 110,
+          "b": 115,
+          "a": 255
+        },
+        {
+          "r": 20,
+          "g": 40,
+          "b": 90,
+          "a": 255
+        },
+        {
+          "r": 150,
+          "g": 30,
+          "b": 40,
+          "a": 255
+        },
+        {
+          "r": 60,
+          "g": 110,
+          "b": 90,
+          "a": 255
+        },
+        {
+          "r": 200,
+          "g": 170,
+          "b": 130,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "NhaBentaKopenhagen",
+      "quality": 0,
+      "pricePerUnit": 25,
+      "imagePath": "NhaBentaKopenhagen.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "OculosEspelhadoChilli",
+      "quality": 0,
+      "pricePerUnit": 280,
+      "imagePath": "OculosEspelhadoChilli.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "OculosInfantilChilli",
+      "quality": 0,
+      "pricePerUnit": 150,
+      "imagePath": "OculosInfantilChilli.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "OculosSolChilli",
+      "quality": 0,
+      "pricePerUnit": 220,
+      "imagePath": "OculosSolChilli.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        },
+        {
+          "r": 30,
+          "g": 30,
+          "b": 30,
+          "a": 255
+        },
+        {
+          "r": 107,
+          "g": 74,
+          "b": 43,
+          "a": 255
+        },
+        {
+          "r": 215,
+          "g": 20,
+          "b": 30,
+          "a": 255
+        },
+        {
+          "r": 30,
+          "g": 70,
+          "b": 170,
+          "a": 255
+        },
+        {
+          "r": 0,
+          "g": 100,
+          "b": 60,
+          "a": 255
+        },
+        {
+          "r": 214,
+          "g": 180,
+          "b": 110,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "PeluciasMundoMagico",
+      "quality": 0,
+      "pricePerUnit": 90,
+      "imagePath": "PeluciasMundoMagico.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "PolvilhoGranadoV2",
+      "quality": 0,
+      "pricePerUnit": 40,
+      "imagePath": "PolvilhoGranadoV2.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "PowerBankLoft",
+      "quality": 0,
+      "pricePerUnit": 150,
+      "imagePath": "PowerBankLoft.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "ProtetorSolarRaiaV2",
+      "quality": 0,
+      "pricePerUnit": 80,
+      "imagePath": "ProtetorSolarRaiaV2.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "RelogioGPSTrackField",
+      "quality": 0,
+      "pricePerUnit": 500,
+      "imagePath": "RelogioGPSTrackField.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "RelogiosChilli",
+      "quality": 0,
+      "pricePerUnit": 250,
+      "imagePath": "RelogiosChilli.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "RemediosCaixasV2",
+      "quality": 0,
+      "pricePerUnit": 30,
+      "imagePath": "RemediosCaixasV2.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "RevistasHudson",
+      "quality": 0,
+      "pricePerUnit": 20,
+      "imagePath": "RevistasHudson.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "SaboneteGranado",
+      "quality": 0,
+      "pricePerUnit": 30,
+      "imagePath": "SaboneteGranado.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "TabletesGrandes",
+      "quality": 0,
+      "pricePerUnit": 35,
+      "imagePath": "TabletesGrandes.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "TenisCamurcaAdidas",
+      "quality": 0,
+      "pricePerUnit": 450,
+      "imagePath": "TenisCamurcaAdidas.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "TenisClassicoAdidas",
+      "quality": 0,
+      "pricePerUnit": 500,
+      "imagePath": "TenisClassicoAdidas.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "TenisCorridaAdidas",
+      "quality": 0,
+      "pricePerUnit": 500,
+      "imagePath": "TenisCorridaAdidas.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "ToalhaHavaianasV2",
+      "quality": 0,
+      "pricePerUnit": 150,
+      "imagePath": "ToalhaHavaianasV2.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        },
+        {
+          "r": 30,
+          "g": 30,
+          "b": 30,
+          "a": 255
+        },
+        {
+          "r": 20,
+          "g": 40,
+          "b": 110,
+          "a": 255
+        },
+        {
+          "r": 230,
+          "g": 60,
+          "b": 90,
+          "a": 255
+        },
+        {
+          "r": 220,
+          "g": 30,
+          "b": 40,
+          "a": 255
+        },
+        {
+          "r": 255,
+          "g": 205,
+          "b": 0,
+          "a": 255
+        },
+        {
+          "r": 0,
+          "g": 150,
+          "b": 70,
+          "a": 255
+        },
+        {
+          "r": 160,
+          "g": 110,
+          "b": 200,
+          "a": 255
+        },
+        {
+          "r": 255,
+          "g": 130,
+          "b": 40,
+          "a": 255
+        },
+        {
+          "r": 90,
+          "g": 200,
+          "b": 220,
+          "a": 255
+        },
+        {
+          "r": 250,
+          "g": 170,
+          "b": 190,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "TopTrackField",
+      "quality": 0,
+      "pricePerUnit": 200,
+      "imagePath": "TopTrackField.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        },
+        {
+          "r": 30,
+          "g": 30,
+          "b": 30,
+          "a": 255
+        },
+        {
+          "r": 80,
+          "g": 80,
+          "b": 85,
+          "a": 255
+        },
+        {
+          "r": 107,
+          "g": 122,
+          "b": 58,
+          "a": 255
+        },
+        {
+          "r": 20,
+          "g": 40,
+          "b": 90,
+          "a": 255
+        },
+        {
+          "r": 216,
+          "g": 160,
+          "b": 166,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "TravesseiroBagaggio",
+      "quality": 0,
+      "pricePerUnit": 80,
+      "imagePath": "TravesseiroBagaggio.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        },
+        {
+          "r": 30,
+          "g": 30,
+          "b": 30,
+          "a": 255
+        },
+        {
+          "r": 110,
+          "g": 110,
+          "b": 115,
+          "a": 255
+        },
+        {
+          "r": 20,
+          "g": 40,
+          "b": 90,
+          "a": 255
+        },
+        {
+          "r": 150,
+          "g": 30,
+          "b": 40,
+          "a": 255
+        },
+        {
+          "r": 60,
+          "g": 110,
+          "b": 90,
+          "a": 255
+        },
+        {
+          "r": 200,
+          "g": 170,
+          "b": 130,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "TravesseiroHudson",
+      "quality": 0,
+      "pricePerUnit": 90,
+      "imagePath": "TravesseiroHudson.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        },
+        {
+          "r": 20,
+          "g": 40,
+          "b": 90,
+          "a": 255
+        },
+        {
+          "r": 120,
+          "g": 120,
+          "b": 125,
+          "a": 255
+        },
+        {
+          "r": 30,
+          "g": 30,
+          "b": 30,
+          "a": 255
+        },
+        {
+          "r": 200,
+          "g": 30,
+          "b": 40,
+          "a": 255
+        },
+        {
+          "r": 240,
+          "g": 150,
+          "b": 180,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "TrufasCaixa",
+      "quality": 0,
+      "pricePerUnit": 45,
+      "imagePath": "TrufasCaixa.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "VeiculosAeroportoMundoMagico",
+      "quality": 0,
+      "pricePerUnit": 60,
+      "imagePath": "VeiculosAeroportoMundoMagico.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "VeiculosAeroportoMundoMagicoB",
+      "quality": 0,
+      "pricePerUnit": 60,
+      "imagePath": "VeiculosAeroportoMundoMagicoB.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "Vitaminas",
+      "quality": 0,
+      "pricePerUnit": 70,
+      "imagePath": "Vitaminas.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    },
+    {
+      "productType": "XampuFrascos",
+      "quality": 0,
+      "pricePerUnit": 45,
+      "imagePath": "XampuFrascos.png",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": false,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": false,
+      "isCustom": true
+    }
+  ]
+}

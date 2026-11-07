@@ -1,0 +1,32 @@
+{
+  "name": "Brasileiríssima",
+  "description": "Lembranças do Brasil.",
+  "customDescription": {
+    "pt-BR": "Lembranças do Brasil.",
+    "en": "Lembranças do Brasil."
+  },
+  "logoPath": "Brasileirissima.png",
+  "businessClass": 1,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Shop",
+  "products": [
+    "CamisetaBrasileirissima",
+    "CamisaTropicalBrasileirissima",
+    "CangaBrasileirissima",
+    "BolsaPraiaBrasileirissima",
+    "BoneBrasileirissima"
+  ],
+  "backgroundColor": {
+    "r": 0,
+    "g": 150,
+    "b": 60,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 220,
+    "b": 0,
+    "a": 255
+  }
+}

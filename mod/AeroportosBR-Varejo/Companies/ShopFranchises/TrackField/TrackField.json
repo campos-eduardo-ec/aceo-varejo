@@ -1,0 +1,33 @@
+{
+  "name": "Track & Field",
+  "description": "Moda esportiva.",
+  "customDescription": {
+    "pt-BR": "Moda esportiva.",
+    "en": "Moda esportiva."
+  },
+  "logoPath": "TrackField.png",
+  "businessClass": 2,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Shop",
+  "products": [
+    "CamisetaTrackField",
+    "LeggingTrackField",
+    "TopTrackField",
+    "BermudaTrackField",
+    "RelogioGPSTrackField",
+    "GarrafaTrackField"
+  ],
+  "backgroundColor": {
+    "r": 20,
+    "g": 20,
+    "b": 20,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "a": 255
+  }
+}

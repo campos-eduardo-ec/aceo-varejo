@@ -1,0 +1,33 @@
+{
+  "name": "Kopenhagen",
+  "description": "Chocolates finos. A língua de gato é a estrela.",
+  "customDescription": {
+    "pt-BR": "Chocolates finos. A língua de gato é a estrela.",
+    "en": "Chocolates finos. A língua de gato é a estrela."
+  },
+  "logoPath": "Kopenhagen.png",
+  "businessClass": 1,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Shop",
+  "products": [
+    "LinguaDeGatoKopenhagen",
+    "NhaBentaKopenhagen",
+    "ChumbinhoKopenhagen",
+    "LajotinhaKopenhagen",
+    "BombonsKopenhagen",
+    "CaixaColecaoKopenhagen"
+  ],
+  "backgroundColor": {
+    "r": 60,
+    "g": 30,
+    "b": 20,
+    "a": 255
+  },
+  "textColor": {
+    "r": 214,
+    "g": 170,
+    "b": 90,
+    "a": 255
+  }
+}
